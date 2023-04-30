@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm Lama Alharbi</h3>
 
-- 🎓I'm a fresh graduate of **Information Technology**
+- 🎓I'm a fresh graduate in**Information Technology**
 
 - 🌱 I’m currently learning **PHP and MySQL**
 
