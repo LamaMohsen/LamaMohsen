@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+**I'm Lama Alharbi**
 
 - 🎓I'm a fresh graduate of Information Technology
 - 🌱 I’m currently learning PHP and MySQL
