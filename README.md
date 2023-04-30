@@ -1,5 +1,9 @@
 <h3 align="center">I'm Lama Alharbi</h3>
 
+- 🎓I'm a fresh graduate of **Information Technology**
+
+- 🌱 I’m currently learning **PHP and MySQL**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
